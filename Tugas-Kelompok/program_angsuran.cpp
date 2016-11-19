@@ -1,5 +1,7 @@
-/* Dibuat oleh Ahmad Syarifuddin Randiko dan Marisha Salsabila */
-/* lama_angsuran maksimal 72 dan harga maksimal 10 x 10^9 */
+/* this program is originally made by Ahmad Syarifuddin Randiko and Marisha Salsabila
+the variable used in this program is in Bahasa Indonesia
+the max value of lama_angsuran is 72 (means that 72 months)
+the max value of harga is 10 x 10^9 (i don't know what data type that can handle more) */
 
 #include<iostream>
 #include<iomanip>
