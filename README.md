@@ -1,2 +1,2 @@
-# College
-Everything about college activity.
+# 1st semester
+some codes i've wrote in c++ 
